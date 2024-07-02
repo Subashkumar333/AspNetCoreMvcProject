@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Zoro.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Zoro.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\brand\\2c849bc9-7272-4a80-a716-6389b59a75ce.png",
+      "PackagePath": "staticwebassets\\Images\\brand\\2c849bc9-7272-4a80-a716-6389b59a75ce.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\brand\\57e1f1fb-872d-47d2-8868-bc77591ea9ce.jpg",
+      "PackagePath": "staticwebassets\\Images\\brand\\57e1f1fb-872d-47d2-8868-bc77591ea9ce.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\brand\\70a43d3a-2ea0-4984-9b86-13e237f9aba4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\brand\\70a43d3a-2ea0-4984-9b86-13e237f9aba4.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\Best-Beginner-Road-Bikes-gear-patrol-full-lead.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo\\Best-Beginner-Road-Bikes-gear-patrol-full-lead.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\Future Goal.jpeg",
+      "PackagePath": "staticwebassets\\Images\\logo\\Future Goal.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\OIP.jpeg",
+      "PackagePath": "staticwebassets\\Images\\logo\\OIP.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\Range.png",
+      "PackagePath": "staticwebassets\\Images\\logo\\Range.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\Zoro Cycle Shop.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo\\Zoro Cycle Shop.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\about-us-icon-15.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo\\about-us-icon-15.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\blank-profile-picture-circle-png-2548.png",
+      "PackagePath": "staticwebassets\\Images\\logo\\blank-profile-picture-circle-png-2548.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\company involvement.jpeg",
+      "PackagePath": "staticwebassets\\Images\\logo\\company involvement.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\contact us.png",
+      "PackagePath": "staticwebassets\\Images\\logo\\contact us.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\cycling_PNG22.png",
+      "PackagePath": "staticwebassets\\Images\\logo\\cycling_PNG22.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\download.jpeg",
+      "PackagePath": "staticwebassets\\Images\\logo\\download.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\fgsfhsdfdf.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo\\fgsfhsdfdf.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\footer logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo\\footer logo.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\heading cycleshop.png",
+      "PackagePath": "staticwebassets\\Images\\logo\\heading cycleshop.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\mission-logo-9.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo\\mission-logo-9.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\our history logo.jpeg",
+      "PackagePath": "staticwebassets\\Images\\logo\\our history logo.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\our rtange.avif",
+      "PackagePath": "staticwebassets\\Images\\logo\\our rtange.avif"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\plumbing-clipart-hvac-18.png",
+      "PackagePath": "staticwebassets\\Images\\logo\\plumbing-clipart-hvac-18.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\logo\\testomonical.jpeg",
+      "PackagePath": "staticwebassets\\Images\\logo\\testomonical.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\02661431-54d0-4d8c-9d21-e39cd8519dd7.png",
+      "PackagePath": "staticwebassets\\Images\\post\\02661431-54d0-4d8c-9d21-e39cd8519dd7.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\02baa884-4122-4121-a9a7-3405b5d510b5.png",
+      "PackagePath": "staticwebassets\\Images\\post\\02baa884-4122-4121-a9a7-3405b5d510b5.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\04662623-5226-4763-a60b-31c59d81ff2b.png",
+      "PackagePath": "staticwebassets\\Images\\post\\04662623-5226-4763-a60b-31c59d81ff2b.png"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\32b7637d-6a53-41ce-8f65-39c6c305ad04.jpg",
+      "PackagePath": "staticwebassets\\Images\\post\\32b7637d-6a53-41ce-8f65-39c6c305ad04.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\5008e134-5dbb-4740-955c-7305a4aa5970.jpeg",
+      "PackagePath": "staticwebassets\\Images\\post\\5008e134-5dbb-4740-955c-7305a4aa5970.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\65095448-136e-4b7d-ab60-eb780a16be37.jpg",
+      "PackagePath": "staticwebassets\\Images\\post\\65095448-136e-4b7d-ab60-eb780a16be37.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\84d21e6d-0f97-41f1-8560-ce2ae279986f.jpg",
+      "PackagePath": "staticwebassets\\Images\\post\\84d21e6d-0f97-41f1-8560-ce2ae279986f.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\9ce79e35-690d-44c4-8609-231e36b0ba90.jpg",
+      "PackagePath": "staticwebassets\\Images\\post\\9ce79e35-690d-44c4-8609-231e36b0ba90.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\a88af764-1129-4b19-bb36-e135a2a15c73.jpeg",
+      "PackagePath": "staticwebassets\\Images\\post\\a88af764-1129-4b19-bb36-e135a2a15c73.jpeg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\afc779b3-839e-4726-937b-f6054c9fbbcc.jpg",
+      "PackagePath": "staticwebassets\\Images\\post\\afc779b3-839e-4726-937b-f6054c9fbbcc.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\Images\\post\\f77c9e3d-c4c6-433e-8e1f-4143f4a49cb0.jpg",
+      "PackagePath": "staticwebassets\\Images\\post\\f77c9e3d-c4c6-433e-8e1f-4143f4a49cb0.jpg"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\css\\contactus.css",
+      "PackagePath": "staticwebassets\\css\\contactus.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Zoro.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Zoro.Web.props",
+      "PackagePath": "build\\Zoro.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Zoro.Web.props",
+      "PackagePath": "buildMultiTargeting\\Zoro.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Zoro.Web.props",
+      "PackagePath": "buildTransitive\\Zoro.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

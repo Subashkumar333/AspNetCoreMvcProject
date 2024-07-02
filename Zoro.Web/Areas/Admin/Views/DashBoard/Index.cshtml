@@ -1,0 +1,184 @@
+﻿@using Zoro.Domain.ViewModel
+@model DashboardViewModel
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<style>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" / >
+
+    body {
+        font-family: 'Roboto', sans-serif; /* Apply custom font to the entire body */
+    }
+
+    .card {
+        color: white;
+        margin-bottom: 20px;
+        transition: transform 0.3s, background-color 0.3s, box-shadow 0.3s;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    }
+
+    .card-total-orders {
+        background: linear-gradient(135deg, #007bff, #0056b3); /* Gradient Blue */
+    }
+
+    .card-total-pending {
+        background: linear-gradient(135deg, #ffc107, #d39e00); /* Gradient Yellow */
+    }
+
+    .card-total-ready {
+        background: linear-gradient(135deg, #28a745, #1e7e34); /* Gradient Green */
+    }
+
+    .card-completed-orders {
+        background: linear-gradient(135deg, #6c757d, #5a6268); /* Gradient Gray */
+    }
+
+    .card-total-amount {
+        background: linear-gradient(135deg, #17a2b8, #117a8b); /* Gradient Cyan */
+    }
+
+    .card-total-product {
+        background: linear-gradient(135deg, #e83e8c, #c82362); /* Gradient Pink */
+    }
+
+    .card-Total-Users {
+        background: linear-gradient(135deg, #17a2b8, #117a8b); /* Gradient Cyan */
+    }
+    .card .card-body .card-title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+
+    .card .card-body .card-title i {
+        margin-right: 10px;
+    }
+
+    .card .card-body .card-text {
+        font-size: 2.5rem;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .container {
+        padding-top: 20px;
+    }
+
+    h1 {
+        margin-bottom: 30px;
+        text-align: center;
+        background: linear-gradient(135deg, #ff7e5f, #feb47b); /* Gradient background */
+        -webkit-background-clip: text;
+        color: transparent;
+        font-size: 3rem;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    /* Override anchor tag styles within cards */
+    .card a {
+        color: inherit;
+        text-decoration: none;
+        display: block;
+    }
+
+    .card a:hover {
+        color: inherit;
+    }
+</style>
+
+<div class="container">
+    <h1>Dashboard</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card card-total-orders">
+                <a asp-action="Index" asp-area="Admin" asp-controller="CustomerOrder">
+                    <div class="card-body">
+                        <h5 class="card-title"><i class="fas fa-shopping-cart"></i> Total Orders</h5>
+                        <p class="card-text">@Model.TotalOrders</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card card-total-pending">
+                <a asp-action="Index" asp-area="Admin" asp-controller="CustomerOrder">
+                    <div class="card-body">
+                        <h5 class="card-title"><i class="fas fa-hourglass-half"></i> Total Pending</h5>
+                        <p class="card-text">@Model.TotalPendingOrders</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card card-total-ready">
+                <a asp-action="Index" asp-area="Admin" asp-controller="CustomerOrder">
+                    <div class="card-body">
+                        <h5 class="card-title"><i class="fas fa-check-circle"></i> Ready To Pick Order</h5>
+                        <p class="card-text">@Model.TotalReadyToPickOrders</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card card-completed-orders">
+                <a asp-action="Index" asp-area="Admin" asp-controller="CompletedOrders">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-check"></i> Completed Orders</h5>
+                    <p class="card-text">@Model.TotalCompletedOrder</p>
+                </div>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card card-total-amount">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-dollar-sign"></i> Total Amount</h5>
+                    <p class="card-text">@Model.TotalAmount.ToString("c")</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card card-total-product">
+                <a asp-action="Index" asp-area="Admin" asp-controller="Feedback">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-box"></i> Total FeedBacks</h5>
+                    <p class="card-text">@Model.TotalFeedBack</p>
+                </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card card-Total-Users">
+                <a asp-action="Index" asp-area="Admin" asp-controller="Customer">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-check"></i> Total User</h5>
+                    <p class="card-text">@Model.TotalCustomers</p>
+                </div>
+                </a>
+            </div>
+        </div>
+
+        
+    </div>
+
+</div>

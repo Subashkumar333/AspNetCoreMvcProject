@@ -1,0 +1,280 @@
+﻿@using Zoro.Domain.ViewModel
+@model HomePostVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<style>
+    .list-unstyled {
+        list-style-type: none;
+        text-align: center;
+    }
+</style>
+
+<div class="container-fluid full-width-container" style="background-color:#00bf63;width:100%;margin-top-30px">
+    <div class="row mx-0">
+        <div class="col-12 px-0">
+            <center><img src="~/images/logo/heading cycleshop.png" class="img-fluid" asp-append-version="true" alt="Cycle Shop Logo" /></center>
+        </div>
+    </div>
+</div>
+
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <form method="post">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-md-2">
+                        <div class="mb-3">
+                            <label class="form-label fw-bold" style="font-family:Verdana, Geneva, Tahoma, sans-serif">Vehicle Name</label>
+                            <input asp-for="@Model.searchBox" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="mb-3">
+                            <label class="form-label fw-bold" style="font-family:Verdana, Geneva, Tahoma, sans-serif">Brand</label>
+                            <select asp-for="@Model.BrandId" asp-items="@Model.BrandList" class="form-select">
+                                <option value="@Guid.Empty">--All--</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="mb-3">
+                            <label class="form-label fw-bold" style="font-family:Verdana, Geneva, Tahoma, sans-serif">Vehicle Type</label>
+                            <select asp-for="@Model.vehicleTypesId" asp-items="@Model.VehicleTypeList" class="form-select">
+                                <option value="@Guid.Empty">--All--</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="mb-3">
+                            <label class="form-label"></label>
+                            <button class="btn btn-success form-control" type="submit">Search</button>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="mb-3">
+                            <label class="form-label"></label>
+                            <a href="@Url.Action("Index", new { page = 1, resetFilter = true })" class="btn btn-primary form-control">Reset</a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@if (Model.Posts.Count > 0)
+{
+    <div class="container p-4">
+        @if (TempData.ContainsKey("LoginDisclaimer"))
+        {
+            <div class="alert alert-warning" role="alert">
+                @TempData["LoginDisclaimer"]
+            </div>
+        }
+        <div class="row">
+            @foreach (var item in Model.Posts)
+            {
+                <div class="col-md-4" style="margin-bottom:20px">
+                    <div class="card border-2 border border-dark shadow mb-2 bg-white rounded">
+                        <div class="card-header">
+                            <img src="@item.VehicleImage" height="250px" width="100%" />
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h6 class="text-primary text-uppercase" style="font-weight:bold">@item.Name</h6>
+                                    <p class="text-uppercase" style="font-weight:bold;color:red;"><span>@item.PriceFrom.ToString("c")</span></p>
+                                </div>
+                                <div class="col-md-6 text-end">
+                                    <img src="@item.Brand.BrandLogo" width="60px" height="60px" />
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-md-6 mx-auto">
+                                    <a class="btn btn-success btn-lg btn-block mb-2" href="@Url.Action("Details", "Home", new { id = item.Id, page = ViewBag.CurrentPage })">Detail</a>
+                                </div>
+                                <div class="col-md-6 mx-auto">
+                                    <form id="addToCartForm_@item.Id" asp-action="CreateCartProductsFromPosts" method="post">
+                                        <input type="hidden" name="productId" value="@item.Id" />
+                                        <input type="hidden" name="productName" value="@item.Name" />
+                                        <input type="hidden" name="price" value="@item.PriceFrom" />
+                                        <input type="hidden" name="quantity" value="1" />
+                                        <input type="hidden" name="page" value="@ViewBag.CurrentPage" />
+                                        <input type="hidden" name="Image" value="@item.VehicleImage" />
+                                        <button id="addToCartButton_@item.Id" class="btn btn-warning btn-lg btn-block cart-check" data-product-id="@item.Id">Add to Cart</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item">
+                @if (ViewBag.CurrentPage > 1)
+                {
+                    <a class="page-link" href="@Url.Action("Index", new { page = ViewBag.CurrentPage - 1 })" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                }
+            </li>
+            @if (ViewBag.TotalPages > 1)
+            {
+                for (int i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    if (i == ViewBag.CurrentPage)
+                    {
+                        <li class="page-item active"><span class="page-link">@i</span></li>
+                    }
+                    else
+                    {
+                        <li class="page-item"><a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a></li>
+                    }
+                }
+            }
+            <li class="page-item">
+                @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                {
+                    <a class="page-link" href="@Url.Action("Index", new { page = ViewBag.CurrentPage + 1 })" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                }
+            </li>
+        </ul>
+    </nav>
+}
+else
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-uppercase text-center text-warning">There is No Data</h2>
+            </div>
+        </div>
+    </div>
+}
+<footer class="border-top footer" style="background-color: #00bf63; font-weight: 600;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                <p style="margin-top: 50px; color: snow;">
+                    <strong style="color: black;">Contact Us:</strong><br>
+                    Zoro Cycle Shop<br>
+                    Vyasarpadi Chennai - 600039<br>
+                    Phone: 666776645<br>
+                    Email: <a href="mailto:info@zorocycleshop.com" style="color: black;">info@zorocycleshop.com</a>
+                </p>
+                &copy; 2024 - Zoro.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy" style="color: black;">Privacy</a>
+            </div>
+            <div class="col-md-5">
+                <div class="location" style="margin-top: 50px;">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31091.65758636952!2d80.17416770716567!3d13.070185165609786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265e499de3b57%3A0xf6cb8f40d3be8700!2sAnna%20Nagar%20Cycles%2C%20Anna%20Nagar!5e0!3m2!1sen!2sin!4v1716796825178!5m2!1sen!2sin" width="500" height="200" style="border: 0;" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="footerlogo" style="margin-top: 40px; margin-right: 50px;">
+                    <center>
+                        <img src="~/images/logo/footer logo.png" height="150px" />
+                        <h4 style="color: black; text-align: center;">About:</h4>
+                        <ul class="list-unstyled list-inline" style="text-align: center; padding-inline-start: 0; list-style-type: none;">
+                            <li style="display: inline; margin-right: 10px;">
+                                <a asp-area="Customer" asp-controller="Home" asp-action="Index" style="color: white; text-decoration: none; font-family: Arial, sans-serif;">Home</a>
+                            </li>
+                            <li style="display: inline; margin-right: 10px;">
+                                <a asp-area="Customer" asp-controller="AboutUs" asp-action="Index" style="color: snow; text-decoration: none; font-family: Arial, sans-serif;">About us</a>
+                            </li>
+
+                            <li style="display: inline; margin-right: 10px; color: snow; font-family: Arial, sans-serif;">
+                                <a asp-area="Customer" asp-controller="ContactUs" asp-action="Index" style="color: snow; text-decoration: none; font-family: Arial, sans-serif;">Contact Us</a>
+                            </li>
+                            <li style="display: inline; margin-right: 10px; color: snow; font-family: Arial, sans-serif;">
+                                Query
+                            </li>
+                        </ul>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+@section Scripts
+{
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            function updateCartCount() {
+                console.log("Updating cart count...");
+                $.getJSON('@Url.Action("GetCartItemCount", "AddToCart")', function (data) {
+                    console.log("Received cart count data:", data);
+                    if (data.success) {
+                        $("#cartItemCount").text(data.count);
+                        console.log("Cart count updated:", data.count);
+                    } else {
+                        console.error("Failed to retrieve cart count");
+                    }
+                }).fail(function () {
+                    console.error("Error occurred while retrieving cart count");
+                });
+            }
+
+            $(".cart-check").each(function () {
+                var productId = $(this).data("product-id");
+                $.getJSON('@Url.Action("IsItemInCart", "Home")', { productId: productId }, function (data) {
+                    if (data === true) {
+                        $("#addToCartButton_" + productId).text("Added");
+                        $("#addToCartButton_" + productId).prop('disabled', true);
+                    }
+                });
+            });
+
+            $(".cart-check").on('click', function (e) {
+                e.preventDefault();
+                var button = $(this);
+                var form = button.closest("form");
+
+                var isLoggedIn = @User.Identity.IsAuthenticated.ToString().ToLower();
+
+                if (!isLoggedIn) {
+                    alert("Please login to add items to your cart.");
+                    return;
+                }
+
+                $.ajax({
+                    url: form.attr("action"),
+                    type: form.attr("method"),
+                    data: form.serialize(),
+                    success: function (response) {
+                        updateCartCount();
+                        button.text("Added");
+                        button.prop('disabled', true);
+                    },
+                    error: function () {
+                        alert("Error adding item to cart.");
+                    }
+                });
+            });
+
+            // Update cart count on page load
+            updateCartCount();
+        });
+    </script>
+}
+
+
+
+
+
+

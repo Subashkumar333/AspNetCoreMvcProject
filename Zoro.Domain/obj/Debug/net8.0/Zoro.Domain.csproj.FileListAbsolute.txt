@@ -1,0 +1,24 @@
+E:\mvc project\ZoroCycle\Zoro.Domain\bin\Debug\net8.0\Zoro.Domain.deps.json
+E:\mvc project\ZoroCycle\Zoro.Domain\bin\Debug\net8.0\Zoro.Domain.dll
+E:\mvc project\ZoroCycle\Zoro.Domain\bin\Debug\net8.0\Zoro.Domain.pdb
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.csproj.AssemblyReference.cache
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.AssemblyInfoInputs.cache
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.AssemblyInfo.cs
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.csproj.CoreCompileInputs.cache
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.dll
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\refint\Zoro.Domain.dll
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.pdb
+E:\mvc project\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\ref\Zoro.Domain.dll
+C:\ZoroCycle\Zoro.Domain\bin\Debug\net8.0\Zoro.Domain.deps.json
+C:\ZoroCycle\Zoro.Domain\bin\Debug\net8.0\Zoro.Domain.dll
+C:\ZoroCycle\Zoro.Domain\bin\Debug\net8.0\Zoro.Domain.pdb
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.csproj.AssemblyReference.cache
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.AssemblyInfoInputs.cache
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.AssemblyInfo.cs
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.csproj.CoreCompileInputs.cache
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.dll
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\refint\Zoro.Domain.dll
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\Zoro.Domain.pdb
+C:\ZoroCycle\Zoro.Domain\obj\Debug\net8.0\ref\Zoro.Domain.dll

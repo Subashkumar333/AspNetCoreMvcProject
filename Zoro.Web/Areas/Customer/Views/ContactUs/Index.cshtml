@@ -1,0 +1,129 @@
+﻿
+@model ContactusData
+    
+        <!-- HEADER -->
+        <header class="main-header">
+            <center>
+                <h1>Contact Us</h1>
+                <p>We'd love to hear from you! Reach out to us with any questions or feedback.</p>
+            </center>
+        </header>
+        <!-- MAIN CONTENT AREA -->
+        <div class="container">
+            <div class="row content-layout-wrapper align-items-start">
+                <div class="site-content col-lg-12 col-12 col-md-12" role="main">
+                    <div class="contact-form-section">
+                        <h2>Get in Touch</h2>
+                        <form asp-action="Submit" method="post" class="contact-form" novalidate>
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                           
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label for="your-name">Your Name</label>
+                                    <input asp-for="YourName" class="form-control" />
+                                    <span asp-validation-for="YourName" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="your-email">Your Email</label>
+                                    <input asp-for="YourEmail" class="form-control" />
+                                    <span asp-validation-for="YourEmail" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                         <div class="row">
+                                <div class="col-md-6">
+                                    <label  for="your-phone">Phone Number</label>
+                                    <input asp-for="YourPhone" class="form-control" style="weight:600" />
+                                    <span asp-validation-for="YourPhone" class="text-danger"></span>
+                                </div>
+                               
+                            
+                            <div class="col-md-6">
+                              <label for="your-message">Your Message</label>
+                              <textarea asp-for="YourMessage" class="form-control" rows="3"></textarea>                              
+                              <span asp-validation-for="YourMessage" class="text-danger"></span>
+                         
+                           </div>
+                         
+                             
+                         </div>
+                    <br />
+                          <div class="row">
+                                  <div class="col-md-12 mx-auto">
+                            <center><button type="submit" class="btn btn-lg btn-info">Submit</button></center>
+                        </div>
+                    </div>
+                       </form>
+                    </div>
+
+
+                    <div class="contact-info-section">
+                        <h2>Contact Information</h2>
+                        <p>If you have any questions, feel free to reach out to us through the following contact details:</p>
+                        <ul>
+                            <li><strong>Email:</strong> info@zoro.com</li>
+                            <li><strong>Phone:</strong> 9876543210</li>
+                            <li><strong>Address:</strong> xxxxx,xxxxxx,xxxxxx</li>
+                        </ul>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <br />
+        <!-- FOOTER -->
+
+        <footer class="border-top footer" style="background-color: #00bf63; font-weight: 600;">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-3 mx-auto">
+                        <p style="margin-top: 50px; color: snow;">
+                            <strong style="color: black;">Contact Us:</strong><br>
+                            Zoro Cycle Shop<br>
+                            Vyasarpadi Chennai - 600039<br>
+                            Phone: 666776645<br>
+                            Email: <a href="mailto:info@zorocycleshop.com" style="color: black;">info@zorocycleshop.com</a>
+                        </p>
+                        &copy; 2024 - Zoro.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy" style="color: black;">Privacy</a>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="location" style="margin-top: 50px;">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31091.65758636952!2d80.17416770716567!3d13.070185165609786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265e499de3b57%3A0xf6cb8f40d3be8700!2sAnna%20Nagar%20Cycles%2C%20Anna%20Nagar!5e0!3m2!1sen!2sin!4v1716796825178!5m2!1sen!2sin" width="500" height="200" style="border: 0;" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="footerlogo" style="margin-top: 40px; margin-right: 50px;">
+                            <center>
+                                <img src="~/images/logo/footer logo.png" height="150px" />
+                                <h4 style="color: black; text-align: center;">About:</h4>
+                                <ul class="list-unstyled list-inline" style="text-align: center; padding-inline-start: 0; list-style-type: none;">
+                                    <li style="display: inline; margin-right: 10px;">
+                                        <a asp-area="Customer" asp-controller="Home" asp-action="Index" style="color: white; text-decoration: none; font-family: Arial, sans-serif;">Home</a>
+                                    </li>
+                                    <li style="display: inline; margin-right: 10px;">
+                                        <a asp-area="Customer" asp-controller="AboutUs" asp-action="Index" style="color: snow; text-decoration: none; font-family: Arial, sans-serif;">About us</a>
+                                    </li>
+
+                                    <li style="display: inline; margin-right: 10px; color: snow; font-family: Arial, sans-serif;">
+                                        <a asp-area="Customer" asp-controller="ContactUs" asp-action="Index" style="color: snow; text-decoration: none; font-family: Arial, sans-serif;">Contact Us</a>
+                                    </li>
+                                    <li style="display: inline; margin-right: 10px; color: snow; font-family: Arial, sans-serif;">
+                                        Query
+                                    </li>
+                                </ul>
+                            </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+           
+        
+  
+  
+   
+    @section Scripts {
+        <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+        <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    }
+

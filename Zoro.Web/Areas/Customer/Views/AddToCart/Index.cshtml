@@ -1,0 +1,123 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@model List<Zoro.Domain.ViewModel.CartProductVM>
+
+@{
+    ViewData["Title"] = "Cart Products";
+}
+
+<h1>Cart Products</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+@if (Model == null || !Model.Any())
+{
+    <p>No products in your cart.</p>
+}
+else
+{
+
+    <table class="table table-bordered table-striped table-responsive-lg text-xxl-center text-center">
+        <thead>
+            <tr>
+                
+                <th>Image</th>
+                <th>Product Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+                <th>Action</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr id="cartItem_@item.Id">
+                    <td class="align-middle">
+                        <img src="@item.Image" class="img-fluid" style="max-width: 100px; max-height: 100px;" />
+                    </td>
+                    <td class="align-middle">@item.ProductName</td>
+                    <td class="align-middle">@item.Price.ToString("C")</td>
+                    <td class="align-middle">
+                        <input type="number" class="form-control quantity-input" value="@item.Quantity" data-price="@item.Price" data-id="@item.Id" min="1" />
+                    </td>
+                    <td class="align-middle total-amount">@((item.Price * item.Quantity).ToString("C"))</td>                  
+                    <td class="d-flex align-items-center justify-content-center">
+                        <div class="w-75 btn-group" role="group">
+                            <form method="post" asp-area="Customer" asp-controller="AddToCart" asp-action="CreateOrderProductFromAddtocard">
+                                <input type="hidden" name="Id" value="@item.Id" />
+                                <input type="hidden" name="UserID" value="@item.UserID" />
+                                <input type="hidden" name="ProductId" value="@item.ProductId" />
+                                <input type="hidden" name="ProductName" value="@item.ProductName" />
+                                <input type="hidden" name="Price" value="@item.Price" />
+                                <input type="hidden" name="Quantity" class="quantity-hidden" value="@item.Quantity" />
+                                <input type="hidden" name="Image" value="@item.Image" />
+                                <button class="btn btn-success btn-lg btn-block order-button" data-id="@item.Id">Order</button>
+                            </form>
+                        </div>
+                    </td>
+                    <td class="d-flex align-items-center justify-content-center">
+                        <div class="w-75 btn-group" role="group">
+                            <form method="post" asp-area="Customer" asp-controller="AddToCart" asp-action="DeleteFromAddtocart">
+                                <input type="hidden" name="Id" value="@item.Id" />
+                                <button class="btn btn-danger btn-lg btn-block delete-button" data-id="@item.Id">Delete</button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            function updateTotalAmount(input) {
+                var quantity = parseInt(input.value);
+                var price = parseFloat(input.dataset.price);
+                var total = quantity * price;
+                var totalTd = input.closest('tr').querySelector('.total-amount');
+                totalTd.textContent = total.toLocaleString(undefined, { style: 'currency', currency: 'USD' });
+            }
+
+            function updateOrderButtonState(input) {
+                var quantity = parseInt(input.value);
+                var orderButton = input.closest('tr').querySelector('.order-button');
+                orderButton.disabled = !quantity || quantity <= 0;
+            }
+
+            function updateHiddenQuantity(input) {
+                var hiddenQuantity = input.closest('tr').querySelector('.quantity-hidden');
+                hiddenQuantity.value = input.value;
+            }
+
+            document.querySelectorAll('.quantity-input').forEach(function (input) {
+                input.addEventListener('input', function () {
+                    updateTotalAmount(this);
+                    updateOrderButtonState(this);
+                    updateHiddenQuantity(this);
+                });
+
+                // Initial update on page load for each input
+                updateTotalAmount(input);
+                updateOrderButtonState(input);
+                updateHiddenQuantity(input);
+            });
+        });
+    </script>
+}
+

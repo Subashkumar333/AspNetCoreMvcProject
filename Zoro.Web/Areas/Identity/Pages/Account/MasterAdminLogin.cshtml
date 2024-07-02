@@ -1,0 +1,90 @@
+﻿@page
+@model MasterAdminLoginModel
+
+<div class="container-fluid" style="margin-top:50px">
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <center>
+                <h1 class="display-4">Admin Login Page</h1>
+            </center>
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow p-4">
+                <h2 class="font-weight-bold text-center mb-4">@ViewData["Title"]</h2>
+
+                <form method="post">
+                    <div class="form-group">
+                        <label asp-for="Input.Email" class="font-weight-bold text-primary"></label>
+                        <input asp-for="Input.Email" class="form-control form-control-lg" />
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Input.Password" class="font-weight-bold text-primary"></label>
+                        <input asp-for="Input.Password" class="form-control form-control-lg" type="password" />
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div class="form-group form-check">
+                        <input asp-for="Input.RememberMe" class="form-check-input" />
+                        <label asp-for="Input.RememberMe" class="form-check-label font-weight-bold"></label>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block btn-lg">Login</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="col-md-4 d-flex align-items-center">
+            <center>
+                <img src="~/images/logo/cycling_png22.png" class="img-fluid" style="max-width: 100%; height: auto; border-radius: 10px;" />
+            </center>
+        </div>
+    </div>
+</div>
+
+<footer class="border-top footer" style="background-color: #00bf63; font-weight: 600;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 mx-auto">
+                <p style="margin-top: 50px; color: snow;">
+                    <strong style="color: black;">Contact Us:</strong><br>
+                    Zoro Cycle Shop<br>
+                    Vyasarpadi Chennai - 600039<br>
+                    Phone: 666776645<br>
+                    Email: <a href="mailto:info@zorocycleshop.com" style="color: black;">info@zorocycleshop.com</a>
+                </p>
+                &copy; 2024 - Zoro.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy" style="color: black;">Privacy</a>
+            </div>
+            <div class="col-md-5">
+                <div class="location" style="margin-top: 50px;">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31091.65758636952!2d80.17416770716567!3d13.070185165609786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265e499de3b57%3A0xf6cb8f40d3be8700!2sAnna%20Nagar%20Cycles%2C%20Anna%20Nagar!5e0!3m2!1sen!2sin!4v1716796825178!5m2!1sen!2sin" width="500" height="200" style="border: 0;" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="footerlogo" style="margin-top: 40px; margin-right: 50px;">
+                    <center>
+                        <img src="~/images/logo/footer logo.png" height="150px" />
+                        <h4 style="color: black; text-align: center;">About:</h4>
+                        <ul class="list-unstyled list-inline" style="text-align: center; padding-inline-start: 0; list-style-type: none;">
+                            <li style="display: inline; margin-right: 10px;">
+                                <a asp-area="Customer" asp-controller="Home" asp-action="Index" style="color: white; text-decoration: none; font-family: Arial, sans-serif;">Home</a>
+                            </li>
+                            <li style="display: inline; margin-right: 10px;">
+                                <a asp-area="Customer" asp-controller="AboutUs" asp-action="Index" style="color: snow; text-decoration: none; font-family: Arial, sans-serif;">About us</a>
+                            </li>
+
+                            <li style="display: inline; margin-right: 10px; color: snow; font-family: Arial, sans-serif;">
+                                <a asp-area="Customer" asp-controller="ContactUs" asp-action="Index" style="color: snow; text-decoration: none; font-family: Arial, sans-serif;">Contact Us</a>
+                            </li>
+                            <li style="display: inline; margin-right: 10px; color: snow; font-family: Arial, sans-serif;">
+                                Query
+                            </li>
+                        </ul>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

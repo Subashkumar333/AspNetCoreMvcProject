@@ -1,0 +1,96 @@
+﻿@using Zoro.Domain.ViewModel
+@model CustomerOrdersVm
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card-header">
+                <h2 class="text-uppercase text-center">Update Order Status</h2>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col-md-8 border-1 border p-4">
+            <form asp-action="Update" method="post" enctype="multipart/form-data">
+                <input asp-for="@Model.orderProducts.Id" type="hidden" />
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.ProductId" class="form-label"></label>
+                            <input asp-for="@Model.orderProducts.ProductId" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.ProductName" class="form-label"></label>
+                            <input asp-for="@Model.orderProducts.ProductName" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.Price" class="form-label"></label>
+                            <input asp-for="@Model.orderProducts.Price" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.Quantity" class="form-label"></label>
+                            <input asp-for="@Model.orderProducts.Quantity" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.TotalPrice" class="form-label"></label>
+                            <input asp-for="@Model.orderProducts.TotalPrice" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.CreateOn" class="form-label"></label>
+                            <input asp-for="@Model.orderProducts.CreateOn" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.UserName" class="form-label"></label>
+
+                            <input asp-for="@Model.orderProducts.UserName" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.PhoneNumber" class="form-label"></label>
+                            <input asp-for="@Model.orderProducts.PhoneNumber" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-3">
+                            <label asp-for="@Model.orderProducts.OrderStatus" class="form-label"></label>
+                            <select asp-for="@Model.orderProducts.OrderStatus" asp-items="Model.Orderstatus" class="form-select">
+                            </select>
+                            <span asp-validation-for="@Model.orderProducts.OrderStatus" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-12 text-end">
+                        <div class="mb-3">
+                            <a asp-area="Admin" asp-controller="CustomerOrder" asp-action="Index" class="btn btn-danger">Back</a>
+                            <button type="submit" class="btn btn-warning">Update</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-4">
+            @if (Model.orderProducts.Image != null)
+            {
+                <img src="@Model.orderProducts.Image" width="100%" />
+            }
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+    
+}

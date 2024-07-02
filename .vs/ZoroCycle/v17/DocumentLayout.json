@@ -1,0 +1,1364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ZoroCycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\controllers\\addtocartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\controllers\\addtocartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\masteradminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\masteradminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\comman\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\comman\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\views\\userorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\views\\userorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\controllers\\userorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\controllers\\userorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\masteradminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\masteradminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\customerorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\customerorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\completedorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\completedorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\vechicletypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\vechicletypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\controllers\\vechicletypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\controllers\\vechicletypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\views\\addtocart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\views\\addtocart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\controllers\\completedorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\controllers\\completedorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\migrations\\20240510064207_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\migrations\\20240510064207_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\views\\userorders\\userorderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\views\\userorders\\userorderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\controllers\\customerordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\controllers\\customerordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\repositories\\completedorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\repositories\\completedorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\repositories\\contactusinformationrepoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\repositories\\contactusinformationrepoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\viewmodel\\feedbackvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\viewmodel\\feedbackvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|c:\\zorocycle\\zoro.application\\contracts\\persistence\\icontactusinformationrepoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|solutionrelative:zoro.application\\contracts\\persistence\\icontactusinformationrepoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\repositories\\cartproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\repositories\\cartproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|c:\\zorocycle\\zoro.application\\contracts\\persistence\\icompletedorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|solutionrelative:zoro.application\\contracts\\persistence\\icompletedorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|c:\\zorocycle\\zoro.application\\contracts\\persistence\\icartproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|solutionrelative:zoro.application\\contracts\\persistence\\icartproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\viewmodel\\cartproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\viewmodel\\cartproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\viewmodel\\completedordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\viewmodel\\completedordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\models\\contactusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\models\\contactusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\viewmodel\\homepostvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\viewmodel\\homepostvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\viewmodel\\customerordersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\viewmodel\\customerordersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\viewmodel\\orderproductsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\viewmodel\\orderproductsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\customer\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\customer\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|c:\\zorocycle\\zoro.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|solutionrelative:zoro.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\repositories\\orderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\repositories\\orderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|c:\\zorocycle\\zoro.application\\contracts\\persistence\\iorderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|solutionrelative:zoro.application\\contracts\\persistence\\iorderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\models\\orderproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\models\\orderproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\applicationenums\\applicationenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\applicationenums\\applicationenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\customerorder\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\customerorder\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|c:\\zorocycle\\zoro.application\\tempdataextension\\tempdataextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|solutionrelative:zoro.application\\tempdataextension\\tempdataextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\areas\\admin\\views\\vechicletypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\areas\\admin\\views\\vechicletypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\mvc project\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240528141844_ContactusData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\wwwroot\\css\\contactus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\wwwroot\\css\\contactus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|c:\\zorocycle\\zoro.web\\zoro.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7DF91B6-7FA4-4A6B-A54E-DB88B02196B4}|Zoro.Web\\Zoro.Web.csproj|solutionrelative:zoro.web\\zoro.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\mvc project\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240521123802_OrderProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ZoroCycle\\Zoro.Application\\obj\\Debug\\net8.0\\Zoro.Application.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zoro.Application\\obj\\Debug\\net8.0\\Zoro.Application.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|c:\\zorocycle\\zoro.application\\services\\antiforgeryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC5F8D-7359-47C3-993F-BD13C22BF53A}|Zoro.Application\\Zoro.Application.csproj|solutionrelative:zoro.application\\services\\antiforgeryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\migrations\\20240522104149_orderproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\migrations\\20240522104149_orderproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\comman\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\comman\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\migrations\\20240528142632_contactusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\migrations\\20240528142632_contactusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|c:\\zorocycle\\zoro.domain\\models\\completedorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4920E-DB13-401A-8F0A-CD9C864F74E6}|Zoro.Domain\\Zoro.Domain.csproj|solutionrelative:zoro.domain\\models\\completedorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|c:\\zorocycle\\zoro.infrastructure\\migrations\\20240530111657_completedorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA0F6DE-9AE4-42CE-947A-D806651A8FB0}|Zoro.Infrastructure\\Zoro.Infrastructure.csproj|solutionrelative:zoro.infrastructure\\migrations\\20240530111657_completedorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterAdminLogin.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\MasterAdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\MasterAdminLogin.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\MasterAdminLogin.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\MasterAdminLogin.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwv1kAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T13:43:49.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAK0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:07:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:00:05.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv3cAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T05:31:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T19:15:36.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:16:01.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Program.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Program.cs",
+              "RelativeToolTip": "Zoro.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:40:43.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Comman\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Comman\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Comman\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Comman\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:38:51.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T01:01:06.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\ContactUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Views\\ContactUs\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\ContactUs\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Views\\ContactUs\\Index.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwv3YAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:28:52.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowIsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:31:32.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Zoro.Domain\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:05:09.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T19:48:25.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserOrdersController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\UserOrdersController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Controllers\\UserOrdersController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\UserOrdersController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Controllers\\UserOrdersController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAwwEsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:18:34.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\UserOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Views\\UserOrders\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\UserOrders\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Views\\UserOrders\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T07:32:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T14:16:24.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MasterAdminLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\MasterAdminLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\MasterAdminLogin.cshtml.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\MasterAdminLogin.cshtml.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\MasterAdminLogin.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:37:03.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T12:15:17.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Zoro.Domain\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:43:27.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:21:54.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:04:15.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\CompletedOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\CompletedOrders\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\CompletedOrders\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\CompletedOrders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T12:14:34.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\AboutUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Views\\AboutUs\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\AboutUs\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Views\\AboutUs\\Index.cshtml",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T11:57:48.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\CustomerOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\CustomerOrder\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\CustomerOrder\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\CustomerOrder\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAGwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T06:17:02.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T14:06:02.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\VechicleTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\VechicleTypes\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\VechicleTypes\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\VechicleTypes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T06:42:20.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAALEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T12:31:40.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\Feedback\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Feedback\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\Feedback\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T11:13:25.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T14:54:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VechicleTypesController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\VechicleTypesController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Controllers\\VechicleTypesController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\VechicleTypesController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Controllers\\VechicleTypesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:57:50.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Controllers\\PostController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:46:31.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:54:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddToCartController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\AddToCartController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Controllers\\AddToCartController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\AddToCartController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Controllers\\AddToCartController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAIwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:34:16.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\AddToCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Views\\AddToCart\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\AddToCart\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Views\\AddToCart\\Index.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAFUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T09:17:54.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:56:48.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CompletedOrdersController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\CompletedOrdersController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Controllers\\CompletedOrdersController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\CompletedOrdersController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Controllers\\CompletedOrdersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:10:38.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240510064207_User.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240510064207_User.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Migrations\\20240510064207_User.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240510064207_User.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Migrations\\20240510064207_User.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:37:33.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserOrderHistory.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\UserOrders\\UserOrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Views\\UserOrders\\UserOrderHistory.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Views\\UserOrders\\UserOrderHistory.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Views\\UserOrders\\UserOrderHistory.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:44:58.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:09:47.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomerOrderController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\CustomerOrderController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Controllers\\CustomerOrderController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\CustomerOrderController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Controllers\\CustomerOrderController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:10:49.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:39:55.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CompletedOrderRepository.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\CompletedOrderRepository.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Repositories\\CompletedOrderRepository.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\CompletedOrderRepository.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Repositories\\CompletedOrderRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:23:01.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T05:29:28.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\Models\\Post.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\Models\\Post.cs",
+              "RelativeToolTip": "Zoro.Domain\\Models\\Post.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:22:30.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:23:08.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ContactUsInformationRepoitory.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\ContactUsInformationRepoitory.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Repositories\\ContactUsInformationRepoitory.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\ContactUsInformationRepoitory.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Repositories\\ContactUsInformationRepoitory.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:37:28.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FeedBackVM.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\FeedBackVM.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ViewModel\\FeedBackVM.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\FeedBackVM.cs",
+              "RelativeToolTip": "Zoro.Domain\\ViewModel\\FeedBackVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:16:33.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IContactUsInformationRepoitory.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\IContactUsInformationRepoitory.cs",
+              "RelativeDocumentMoniker": "Zoro.Application\\Contracts\\Persistence\\IContactUsInformationRepoitory.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\IContactUsInformationRepoitory.cs",
+              "RelativeToolTip": "Zoro.Application\\Contracts\\Persistence\\IContactUsInformationRepoitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:35:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:10:05.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ViewModel\\DashboardViewModel.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\DashboardViewModel.cs",
+              "RelativeToolTip": "Zoro.Domain\\ViewModel\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:13:55.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CartProductsRepository.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\CartProductsRepository.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Repositories\\CartProductsRepository.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\CartProductsRepository.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Repositories\\CartProductsRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:26:20.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICompletedOrderRepository.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\ICompletedOrderRepository.cs",
+              "RelativeDocumentMoniker": "Zoro.Application\\Contracts\\Persistence\\ICompletedOrderRepository.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\ICompletedOrderRepository.cs",
+              "RelativeToolTip": "Zoro.Application\\Contracts\\Persistence\\ICompletedOrderRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:10:09.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ICartProductsRepository.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\ICartProductsRepository.cs",
+              "RelativeDocumentMoniker": "Zoro.Application\\Contracts\\Persistence\\ICartProductsRepository.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\ICartProductsRepository.cs",
+              "RelativeToolTip": "Zoro.Application\\Contracts\\Persistence\\ICartProductsRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:48:18.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CartProductVM.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\CartProductVM.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ViewModel\\CartProductVM.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\CartProductVM.cs",
+              "RelativeToolTip": "Zoro.Domain\\ViewModel\\CartProductVM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:38:54.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CompletedOrderVM.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\CompletedOrderVM.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ViewModel\\CompletedOrderVM.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\CompletedOrderVM.cs",
+              "RelativeToolTip": "Zoro.Domain\\ViewModel\\CompletedOrderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:04:52.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ContactusData.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\Models\\ContactusData.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\Models\\ContactusData.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\Models\\ContactusData.cs",
+              "RelativeToolTip": "Zoro.Domain\\Models\\ContactusData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:07:37.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HomePostVM.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\HomePostVM.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ViewModel\\HomePostVM.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\HomePostVM.cs",
+              "RelativeToolTip": "Zoro.Domain\\ViewModel\\HomePostVM.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:13:31.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OrderProductsVm.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\OrderProductsVm.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ViewModel\\OrderProductsVm.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\OrderProductsVm.cs",
+              "RelativeToolTip": "Zoro.Domain\\ViewModel\\OrderProductsVm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:19:46.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CustomerOrdersVm.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\CustomerOrdersVm.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ViewModel\\CustomerOrdersVm.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ViewModel\\CustomerOrdersVm.cs",
+              "RelativeToolTip": "Zoro.Domain\\ViewModel\\CustomerOrdersVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:26:22.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Zoro.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeToolTip": "Zoro.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:03:02.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Customer\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Customer\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Customer\\Controllers\\ContactUsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:03:52.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:03:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderProductsRepository.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\OrderProductsRepository.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Repositories\\OrderProductsRepository.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Repositories\\OrderProductsRepository.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Repositories\\OrderProductsRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA9wC0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:04:58.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IOrderProductsRepository.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\IOrderProductsRepository.cs",
+              "RelativeDocumentMoniker": "Zoro.Application\\Contracts\\Persistence\\IOrderProductsRepository.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Application\\Contracts\\Persistence\\IOrderProductsRepository.cs",
+              "RelativeToolTip": "Zoro.Application\\Contracts\\Persistence\\IOrderProductsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:51:37.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CompletedOrders.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\Models\\CompletedOrders.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\Models\\CompletedOrders.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\Models\\CompletedOrders.cs",
+              "RelativeToolTip": "Zoro.Domain\\Models\\CompletedOrders.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:10:49.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\Common\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\Common\\BaseModel.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\Common\\BaseModel.cs",
+              "RelativeToolTip": "Zoro.Domain\\Common\\BaseModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:12:19.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\Post\\Create.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\Post\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T09:43:05.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20240530111657_CompletedOrders.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240530111657_CompletedOrders.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Migrations\\20240530111657_CompletedOrders.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240530111657_CompletedOrders.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Migrations\\20240530111657_CompletedOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:57.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ApplicationEnum.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\ApplicationEnums\\ApplicationEnum.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\ApplicationEnums\\ApplicationEnum.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\ApplicationEnums\\ApplicationEnum.cs",
+              "RelativeToolTip": "Zoro.Domain\\ApplicationEnums\\ApplicationEnum.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:40:20.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OrderProducts.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Domain\\Models\\OrderProducts.cs",
+              "RelativeDocumentMoniker": "Zoro.Domain\\Models\\OrderProducts.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Domain\\Models\\OrderProducts.cs",
+              "RelativeToolTip": "Zoro.Domain\\Models\\OrderProducts.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:07:10.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\CustomerOrder\\Update.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\CustomerOrder\\Update.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\CustomerOrder\\Update.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\CustomerOrder\\Update.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:03:01.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T14:12:07.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TempDataExtension.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Application\\TempDataExtension\\TempDataExtension.cs",
+              "RelativeDocumentMoniker": "Zoro.Application\\TempDataExtension\\TempDataExtension.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Application\\TempDataExtension\\TempDataExtension.cs",
+              "RelativeToolTip": "Zoro.Application\\TempDataExtension\\TempDataExtension.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:20:20.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\VechicleTypes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Areas\\Admin\\Views\\VechicleTypes\\Create.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Areas\\Admin\\Views\\VechicleTypes\\Create.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Areas\\Admin\\Views\\VechicleTypes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:13:06.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Zoro.Web\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Zoro.Web\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:32:50.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240528142632_ContactusData.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240528142632_ContactusData.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Migrations\\20240528142632_ContactusData.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240528142632_ContactusData.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Migrations\\20240528142632_ContactusData.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:26:33.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240528141844_ContactusData.cs",
+              "DocumentMoniker": "E:\\mvc project\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240528141844_ContactusData.cs",
+              "ToolTip": "E:\\mvc project\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240528141844_ContactusData.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:18:45.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "contactus.css",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\css\\contactus.css",
+              "RelativeDocumentMoniker": "Zoro.Web\\wwwroot\\css\\contactus.css",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\wwwroot\\css\\contactus.css",
+              "RelativeToolTip": "Zoro.Web\\wwwroot\\css\\contactus.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T15:24:05.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Zoro.Web.csproj",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Web\\Zoro.Web.csproj",
+              "RelativeDocumentMoniker": "Zoro.Web\\Zoro.Web.csproj",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Web\\Zoro.Web.csproj",
+              "RelativeToolTip": "Zoro.Web\\Zoro.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T09:10:14.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AntiForgeryHelper.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Application\\Services\\AntiForgeryHelper.cs",
+              "RelativeDocumentMoniker": "Zoro.Application\\Services\\AntiForgeryHelper.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Application\\Services\\AntiForgeryHelper.cs",
+              "RelativeToolTip": "Zoro.Application\\Services\\AntiForgeryHelper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:37:03.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20240522104149_OrderProducts.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240522104149_OrderProducts.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Migrations\\20240522104149_OrderProducts.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240522104149_OrderProducts.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Migrations\\20240522104149_OrderProducts.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:41:50.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Zoro.Application.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Application\\obj\\Debug\\net8.0\\Zoro.Application.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Zoro.Application\\obj\\Debug\\net8.0\\Zoro.Application.AssemblyInfo.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Application\\obj\\Debug\\net8.0\\Zoro.Application.AssemblyInfo.cs",
+              "RelativeToolTip": "Zoro.Application\\obj\\Debug\\net8.0\\Zoro.Application.AssemblyInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:11:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240521123802_OrderProduct.cs",
+              "DocumentMoniker": "E:\\mvc project\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240521123802_OrderProduct.cs",
+              "ToolTip": "E:\\mvc project\\ZoroCycle\\Zoro.Infrastructure\\Migrations\\20240521123802_OrderProduct.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:38:03.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\ZoroCycle\\Zoro.Infrastructure\\Comman\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Zoro.Infrastructure\\Comman\\ExtensionMethods.cs",
+              "ToolTip": "C:\\ZoroCycle\\Zoro.Infrastructure\\Comman\\ExtensionMethods.cs",
+              "RelativeToolTip": "Zoro.Infrastructure\\Comman\\ExtensionMethods.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAnwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:38:54.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

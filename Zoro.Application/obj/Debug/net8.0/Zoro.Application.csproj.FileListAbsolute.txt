@@ -1,0 +1,30 @@
+E:\mvc project\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Application.deps.json
+E:\mvc project\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Application.dll
+E:\mvc project\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Application.pdb
+E:\mvc project\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Domain.dll
+E:\mvc project\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Domain.pdb
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.csproj.AssemblyReference.cache
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.AssemblyInfoInputs.cache
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.AssemblyInfo.cs
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.csproj.CoreCompileInputs.cache
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.App.C4E25EE2.Up2Date
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.dll
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\refint\Zoro.Application.dll
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.pdb
+E:\mvc project\ZoroCycle\Zoro.Application\obj\Debug\net8.0\ref\Zoro.Application.dll
+C:\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Application.deps.json
+C:\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Application.dll
+C:\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Application.pdb
+C:\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Domain.dll
+C:\ZoroCycle\Zoro.Application\bin\Debug\net8.0\Zoro.Domain.pdb
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.csproj.AssemblyReference.cache
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.AssemblyInfoInputs.cache
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.AssemblyInfo.cs
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.csproj.CoreCompileInputs.cache
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.App.C4E25EE2.Up2Date
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.dll
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\refint\Zoro.Application.dll
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\Zoro.Application.pdb
+C:\ZoroCycle\Zoro.Application\obj\Debug\net8.0\ref\Zoro.Application.dll

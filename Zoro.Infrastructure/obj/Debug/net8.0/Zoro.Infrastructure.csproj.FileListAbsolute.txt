@@ -1,0 +1,38 @@
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Infrastructure.deps.json
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Infrastructure.runtimeconfig.json
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Infrastructure.dll
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Infrastructure.pdb
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Application.dll
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Domain.dll
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Application.pdb
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Domain.pdb
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.csproj.AssemblyReference.cache
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.AssemblyInfoInputs.cache
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.AssemblyInfo.cs
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.csproj.CoreCompileInputs.cache
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Inf.96260704.Up2Date
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.dll
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\refint\Zoro.Infrastructure.dll
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.pdb
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.genruntimeconfig.cache
+E:\mvc project\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\ref\Zoro.Infrastructure.dll
+C:\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Infrastructure.deps.json
+C:\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Infrastructure.runtimeconfig.json
+C:\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Infrastructure.dll
+C:\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Infrastructure.pdb
+C:\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Application.dll
+C:\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Domain.dll
+C:\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Application.pdb
+C:\ZoroCycle\Zoro.Infrastructure\bin\Debug\net8.0\Zoro.Domain.pdb
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.csproj.AssemblyReference.cache
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.AssemblyInfoInputs.cache
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.AssemblyInfo.cs
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Inf.96260704.Up2Date
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.dll
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\refint\Zoro.Infrastructure.dll
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.pdb
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\Zoro.Infrastructure.genruntimeconfig.cache
+C:\ZoroCycle\Zoro.Infrastructure\obj\Debug\net8.0\ref\Zoro.Infrastructure.dll

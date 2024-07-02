@@ -1,0 +1,126 @@
+﻿@model List<OrderProducts>
+
+@{
+    int count = 0;
+}
+
+
+
+
+
+
+    @functions {
+    public string GetButtonColor(string orderStatus)
+    {
+        switch (orderStatus.ToLower())
+        {
+            case "pending":
+                return "btn-danger";
+            case "ready_to_pickup":
+                return "btn-warning"; 
+            default:
+                return "btn-secondary";
+        }
+    }
+}
+
+}
+<style>
+    .btn-danger {
+        background-color: red;
+    }
+
+    .btn-warning {
+        background-color: orange;
+    }
+
+    
+</style>
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-md-12 text-uppercase">
+            <center><h3>Customer Orders</h3></center>
+        </div>
+    </div>
+</div>
+
+<hr />
+<div class="table-responsive">
+<table class="table table-bordered table-striped " id="tablee">
+    <thead>
+        <tr>
+            <th style="text-align: center;">S.no</th>
+            <th style="text-align: center;">Order Date&Time</th>
+            <th style="text-align: center;">Customer Name</th>
+            <th style="text-align: center;">Customer Product</th>
+            <th style="text-align: center;">Product Image</th>
+            <th style="text-align: center;">Product Price</th>
+            <th style="text-align: center;">Product Quantity</th>
+            <th style="text-align: center;">Product TotalPrice</th>
+            <th style="text-align: center;">Customer Phone</th>
+            <th style="text-align: center;">Order Status</th>
+            <th style="text-align: center;">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Item in Model)
+        {
+            <tr>
+                <td style="text-align: center;">@(++count)</td>
+                <td style="text-align: center;">@Item.CreateOn</td>
+                <td style="text-align: center;">@Item.UserName</td>
+                <td style="text-align: center;">@Item.ProductName</td>
+                <td style="text-align: center;">
+                    <img src="@Item.Image" class="img-fluid" style="max-width: 100px; max-height: 100px;" />
+                </td>
+                <td style="text-align: center;">@Item.Price.ToString("c")</td>
+                <td style="text-align: center;">@Item.Quantity</td>
+                <td style="text-align: center;">@Item.TotalPrice.ToString("c")</td>
+                <td style="text-align: center;">@Item.PhoneNumber</td>
+                <td style="text-align: center;">
+                    <button class="btn @GetButtonColor(Item.OrderStatus)" style="border-radius:20px;font-family:Georgia, 'Times New Roman', Times, serif;font-size:medium">@Item.OrderStatus</button>
+                </td>
+                <td class="d-flex align-items-center justify-content-center">
+                    <a asp-area="Admin" asp-controller="CustomerOrder" asp-action="Update" asp-route-id="@Item.Id" class="btn btn-warning" data-toggle="tooltip" data-placement="top" title="Update Order Status">
+                        <i class="bi bi-pencil-square"></i>
+                    </a>
+
+
+                    <form method="post" asp-area="Admin" asp-controller="CustomerOrder" asp-action="CreateCompletedOrdersFromOrderProduct" asp-route-id="@Item.Id">
+                        <button class="btn btn-success" data-toggle="tooltip" data-placement="top" title="Complete Order" data-id="@Item.Id"><i class="bi bi-check-square-fill"></i></button>
+                    </form>
+
+
+
+
+
+                    <form asp-area="Admin" asp-controller="CustomerOrder" asp-action="Deleteorderproduct" method="post" asp-route-id="@Item.Id">
+                        <button class="btn btn-danger" data-toggle="tooltip" data-placement="top" title="Cancel Order" data-id="@Item.Id">
+                            <i class="bi bi-shield-fill-x"></i>
+                        </button>
+                    </form>
+
+                   
+
+                </td>
+            </tr>
+        }
+    </tbody>
+  </table>
+</div>
+@section Scripts
+{
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-KyZXEAg3QhqLMpG8r+Knujsl5+ZCvCkK3uLrW+8v7Fxkew+8dggbmGFIYB6z4bcu" crossorigin="anonymous" defer></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js" integrity="sha384-Jn8fzpOj/6+3ovVabw5o9KozIvJF+P5B8PZH8LvguN4JjRZ4WoaXl2slKfL3PW6D" crossorigin="anonymous" defer></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            $('#tablee').DataTable({
+                "pageLength": 5,
+                "responsive": true
+            });
+        });
+    </script>
+}
+
+
+
